@@ -34,7 +34,7 @@ You can find the list of available commands with /help.
 
 HELP_STRINGS = """
 
-Hello! my name *{LEGEND}*.
+Hello! my name *{}*.
 
 *Main* commands available:
  - /start: start the bot
